@@ -26,13 +26,13 @@ render(){
               
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Recursos 
+                Recursos
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="/voto">Voto</a>
                   <a class="dropdown-item" href="/cabildoAbierto">Cabildo abierto</a>
                   <a class="dropdown-item" href="/consultaPopular">Consulta popular</a>
-                  <a class="dropdown-item" href="/iniciativaPopular">Iniciativa poular</a>
+                  <a class="dropdown-item" href="/iniciativaPopular">Iniciativa popular</a>
                   <a class="dropdown-item" href="/plebiscito">Plebiscito</a>
                   <a class="dropdown-item" href="/referendo">Referendo</a>
                   <a class="dropdown-item" href="/revocatoriaMandato">Revocatoria de mandato</a>

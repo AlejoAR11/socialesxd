@@ -20,9 +20,13 @@ class Inicio extends React.Component {
 
             <p class="texto">
               <strong>Los mecanismos de participación ciudadana </strong>
-              son herramientas a la mano de todos los colombianos con las cuales
-              pueden ejercer el derecho a participar del poder político. Estos
-              mecanismos son:
+              son herramientas al alcance de todos los colombianos para ejercer
+              con ellos el derecho a participar del poder político, mediante el
+              voto, el plebiscito, el referendo, la consulta popular, el cabildo
+              abierto, la iniciativa legislativa y la revocatoria del mandato.
+              Esto da al ciudadano colombiano la posibilidad de participar de
+              muchas de las decisiones que afectarán al país ya sea positiva o
+              negativamente.
               <br />
               <br />
             </p>
@@ -42,10 +46,13 @@ class Inicio extends React.Component {
             </p>
 
             <p class="texto">
-              Según el <a href="https://www.mincit.gov.co/ministerio/normograma-sig/procesos-estrategicos/gestion-de-informacion-y-comunicacion/constitucion-politica/derechos/articulo-103.aspx#:~:text=Son%20mecanismos%20de%20participación%20del,y%20la%20revocatoria%20del%20mandato.">
-                Articulo 103 de la constitución Política de 1991, 
-              </a> el Estado es el encargado de organizar, promover y capacitar a los diferentes sectores de la comunidad para hacer un adecuado uso de estos mecanismos, y, así garantizar un entorno demócratico digno.
-
+              Según el{" "}
+              <a href="https://www.mincit.gov.co/ministerio/normograma-sig/procesos-estrategicos/gestion-de-informacion-y-comunicacion/constitucion-politica/derechos/articulo-103.aspx#:~:text=Son%20mecanismos%20de%20participación%20del,y%20la%20revocatoria%20del%20mandato.">
+                Articulo 103 de la constitución Política de 1991,
+              </a>{" "}
+              el Estado es el encargado de organizar, promover y capacitar a los
+              diferentes sectores de la comunidad para hacer un adecuado uso de
+              estos mecanismos, y, así garantizar un entorno demócratico digno.
               <br />
               <br />
             </p>
@@ -55,7 +62,6 @@ class Inicio extends React.Component {
               puedo hacer uso de estos recursos, de una manera resumida y clara
               para su fácil entendimiento. <br />
               <br />
-              
             </p>
             {/*-Según la página de la Registradora Nacional del Estado civil aparece que 
 

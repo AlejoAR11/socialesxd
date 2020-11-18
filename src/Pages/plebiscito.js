@@ -34,11 +34,11 @@ class Plebiscito extends React.Component {
                   una vez pasado un mes de la manifestación de Presidente a realizar un plebiscito, si ninguna de las dos Cámaras haya manifestado alguna objeción el presidente podrá convocarlo.
                   <br />  <br />
 
-
-              <strong>Referencia: </strong> negociaciones de paz con Las FARC. 2012-2016. En estas negociaciones se llegó a un acuerdo en el 2016
-              la cual podría haber sido aprobada por el Presidente dentro de sus capacidades, pero, para darle mayor fuerza y respaldo a este acuerdo, se decidió someterse a plebiscito.
-              <br />  <br />
-              <strong>Resultados: </strong> Sí 49.78% || No 50.21%
+                  A este accederás siendo mayor de edad tener cédula y ser ciudadano
+colombiano, éste específicamente podrás acceder cuando el Presidente necesite la
+opinión de los colombianos sobre realizar una acción, a este tendrás que ir a votar en
+unas fechas específicas.
+              
               
               
               

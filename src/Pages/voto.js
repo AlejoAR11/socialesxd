@@ -27,21 +27,18 @@ Constitución Política de Colombia [Const].  Artículo 258 de 1994
               <br />
 El voto es el mecanismo por el cual los ciudadanos elegimos ya sea al presidente, gobernador, alcalde, etc de nosotros depende quien nos gobernara por un tiempo definido.
 <br />
-             
+<br />     
 Son cinco los pasos que se debe de hacer para poder votar (se debe ser mayor de edad):
 <br /><br />
    
-<ul>Saber dónde le toca votar.</ul>
-<ul>Saber el horario en el que tiene que votar.</ul>
-<ul>Tener la cédula de ciudadanía.</ul>
-<ul>Marcar el tarjetón.</ul>
-<ul>Depositar el tarjetón.</ul>
-<br /><br />
-
-Uno de los hechos curiosos sobre el voto en Colombia es el que sucedió en  Socorro (Santander) Se trata que fue el único municipio del  país en el que solo estuvieron postuladas mujeres para la alcaldía, algo nunca visto.
-
-              <br />
-              <br />
+<ul>
+<li>Saber dónde le toca votar. </li>
+<li>Saber el horario en el que tiene que votar.</li>
+<li>Tener la cédula de ciudadanía.</li>
+<li>Marcar el tarjetón.</li>
+<li>Depositar el tarjetón.</li>
+</ul>
+<br />
             
             </p>
 

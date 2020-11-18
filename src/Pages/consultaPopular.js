@@ -49,17 +49,11 @@ class ConsultaPopular extends React.Component {
                 
               </div>
               <br />
-              Para la realización de una consulta popular de carácter nacional,
-              el texto que se someterá a la decisión del pueblo, debe ir
-              acompañado de la justificación de la consulta y de un informe
-              sobre la fecha de su realización, enviado por el Presidente de la
-              República al Senado para su aprobación. Constitución Política de
-              Colombia [Const]. Ley 134 de 1994 (Colombia).
-              <br />
-              <br />
-              Una de las veces que se aplicó la consulta popular fue cuando la
-              mayoría de los habitantes de Tauramena, en Casanare, le dijeron No
-              a la explotación petrolera en su territorio.
+              La consulta popular puede ser convocada tanto por el Congreso de
+la República, juntando estos un 33% de cualquier cámara, o por la misma ciudadanía,
+teniendo un apoyo del 5% del censo electoral registrado.
+Se debe ser mayor de edad para participar tanto en el recaudo de firmas de apoyo
+como para votar en la consulta popular en cuestión.
               <br />
               <br />
             </p>

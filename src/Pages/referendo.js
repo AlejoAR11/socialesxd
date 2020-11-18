@@ -52,6 +52,16 @@ class Referendo extends React.Component {
               pro a sus intereses.
               <br />
               <br />
+              Es convocado por el pueblo, para esto se deben alcanzar firmas
+correspondientes al 5% del censo electoral inscrito. El Congreso es el encargado de
+
+14
+
+validar dichas firmas y una vez pase el umbral se dará paso a las votaciones, en las
+cuales se debe tener una participación de al menos ¼ (25%) de la población registrada
+en el censo electoral para ser tomado como válido.
+Se debe ser mayor de edad para participar tanto en el recaudo de firmas de apoyo
+como para votar en la consulta popular en cuestión.
             </p>
 
             <p class="texto"></p>

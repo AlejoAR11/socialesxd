@@ -6,18 +6,18 @@ import Footer from "../components/footer.js";
 class CabildoAbierto extends React.Component {
   render() {
     return (
-      <div class="container-fluid fondo">
+      <div className="container-fluid fondo">
         <header>
           <Nav />
         </header>
 
-        <div class="row">
-          <div class="col-sm-10	col-md-10	col-lg-10	col-xl-10 contenido">
+        <div  className="row">
+          <div className="col-sm-10	col-md-10	col-lg-10	col-xl-10 contenido">
             <h2 class="titulos"> Cabildo Abierto</h2>
             <br />
             <br />
 
-            <p class="texto">
+            <p  className="texto">
               <a href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=330#:~:text=-%20Cabildo%20abierto.,de%20interés%20para%20la%20comunidad.">
                 {" "}
                 La ley 134
@@ -32,18 +32,30 @@ class CabildoAbierto extends React.Component {
               los habitantes para participar activamente sobre temas de interés.
               <br />
               <br />
-              La solicitud de un cabildo abierto debe ser iniciativa de un
-              número de personas no inferior al 5 por 1000 del censo electoral
-              del lugar (municipio, departamento).
+              Se puede convocar tanto por los representantes del municipio, región
+etc en cuestión como por los ciudadanos, siempre y cuando sean una cantidad superior
+al 5% de los ciudadanos registrados en el censo electoral.
               <br />
               <br />
-              En Honda, Tolima hubo un cabildo abierto sobre Políticas Públicas
-              de la Infancia y la Adolescencia el cual fue aprobado el
-              14/08/2013 B. (1991, julio).{" "}
-              <a href="https://www.constitucioncolombia.com/titulo-9/capitulo-1/articulo-258"> ConstitucionColombia.com.</a>{" "}
-             
+               Una vez hecha una petición
+válida se tendrá que realizar en un tiempo no mayor a un mes desde que se realiza
+esta, y es de obligación del alcalde o gobernador de hacer presencia.
+Iniciativa popular legislativa: Cualquier persona o grupo social puede convocar este
+mecanismo de participación, y para hacerlo debe diligenciar un formato que es
+diseñado Registraduría en el cual debe llenar los siguientes datos:
+<br/>
+<br/>
+
+<ul>
+ <li>El nombre completo, número de documento de identificación y dirección de
+notificaciones del promotor o los miembros del comité promotor. </li>
+<li>El título que describa la propuesta de mecanismo de participación ciudadana. </li>
+<li>La exposición de motivos que sustenta la propuesta. </li>
+<li>La propuesta de articulado, salvo en el caso de las propuestas de revocatoria de
+mandato. </li>
+ </ul>            
               <br />
-              <br />
+            
             </p>
 
             <p class="texto"></p>

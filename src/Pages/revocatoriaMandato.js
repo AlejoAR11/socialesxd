@@ -42,13 +42,14 @@ class RevocatoriaMandato extends React.Component {
               del mandato de un gobernador o un alcalde.
               <br />
               <br />
-              En 2018 por primera vez en Colombia es revocado un mandatario
-              público con el 97% de votos a favor del Sí, fue el alcalde de
-              Tasco (Boyacá) Nelson Javier García Castellanos (Por primera vez
-              en Colombia es revocado un alcalde. (2018, 30 julio).
-              <a href="  https://www.rcnradio.com/politica/por-primera-vez-en-colombia-es-revocado-un-alcalde)">
-                RCN Radio.
-              </a>
+              Una vez se entienda que esta solo es válida para
+gobernadores o alcaldes y NO para el presidente, la ciudadanía puede hacer uso de
+este mecanismo para dar por terminado el mandato que se le dió tiempo atrás. Para
+hacer una petición válida se debe contar con mínimo el una cantidad de firmas
+equivalente al 40% de votos válidos emitidos para el funcionario en cuestión. También
+se debe contar con que debe tener mínimo un año en el poder. Una vez validadas las
+firmas se tendrán dos meses para convocar a las votaciones en las cuales se decidirá
+si se derrocará al funcionario o no.
               <br />
               <br />
             </p>
