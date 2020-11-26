@@ -36,7 +36,7 @@ class IniciativaPopular extends React.Component {
               <br />
               <br />
               Para realizar una iniciativa popular legislativa se debe realizar
-              primero la inscripción de un comité de promotores, que tiene que
+              primero la inscripción de un comité de promotores (grupo de personas para que ayuden a difundir la iniciativa), que tiene que
               tener un respaldo en firmas equivalente al 0.5% del censo
               electoral, para posteriormente inscribirla iniciativa, la cual
               también debe estar apoyada con firmas, pero equivalentes al 5% del

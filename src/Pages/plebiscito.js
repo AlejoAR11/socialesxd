@@ -30,14 +30,21 @@ class Plebiscito extends React.Component {
                   <br />  <br />
                   Para llevar a cabo un plebiscito el Presidente de la República debe notificar inmediatamente al Congreso su intención de convocarlo, 
                   sus razones para hacerlo  y la fecha en la que se llevará a cabo la votación la cual no debe ser anterior a un mes y posterior a 4 meses a partir de la fecha 
-                  en la cual el Congreso recibe el informe del Presidente. <br/>
+                  en la cual el Congreso recibe el informe del Presidente.  <br/>Por tal motivo el ciudadano no interfiere en el proceso de la desición para llevar a cabo un plebiscito. <br/>
                   una vez pasado un mes de la manifestación de Presidente a realizar un plebiscito, si ninguna de las dos Cámaras haya manifestado alguna objeción el presidente podrá convocarlo.
                   <br />  <br />
 
                   A este accederás siendo mayor de edad tener cédula y ser ciudadano
 colombiano, éste específicamente podrás acceder cuando el Presidente necesite la
 opinión de los colombianos sobre realizar una acción, a este tendrás que ir a votar en
-unas fechas específicas.
+unas fechas específicas. y seguir las recomendaciones o pasos:
+<ul>
+                <li>Saber dónde le toca votar. </li>
+                <li>Saber el horario en el que tiene que votar.</li>
+                <li>Tener la cédula de ciudadanía.</li>
+                <li>Marcar el tarjetón.</li>
+                <li>Depositar el tarjetón.</li>
+              </ul>
               
               
               
