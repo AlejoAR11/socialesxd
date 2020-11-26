@@ -3,9 +3,7 @@ import { Link, NavLink } from "react-router-dom";
 import Nav from "../components/nav.js";
 import style from "../Style/inicio.css";
 import Footer from "../components/footer.js";
-import votoCol from "../Images/votoCol.png"
-
-
+import votoCol from "../Images/votoCol.png";
 
 class Voto extends React.Component {
   render() {
@@ -31,28 +29,34 @@ class Voto extends React.Component {
               (Colombia).
               <br />
               <br />
-              El voto es el mecanismo por el cual un individuo expresa apoyo por cierta propuesta, candidato, o selección de candidatos durante una votación, de forma secreta o pública.
+              El voto es el mecanismo por el cual un individuo expresa apoyo por
+              cierta propuesta, candidato, o selección de candidatos durante una
+              votación, de forma secreta o pública. La votación es convocada por
+              el Estado, y normalmente en Colombia se realiza cada 4 años.
               <br />
               <br />
-
-              <center> <img src={votoCol} alt="..." id="votoCol"/> </center>
+              <center>
+                {" "}
+                <img src={votoCol} alt="..." id="votoCol" />{" "}
+              </center>
               <br />
               <br />
-
-              Un ciudadano lo que debe hacer para poder votar tiene que tener en cuenta los siguientes aspectos:
+              Un ciudadano lo que debe hacer para poder votar tiene que tener en
+              cuenta los siguientes aspectos:
               <br />
-               Ser mayor de edad, tener cedula, saber donde le toca
-              votar, saber por quien votar.
+              Ser mayor de edad, tener cedula, saber donde le toca votar, saber
+              por quien votar.
               <br />
               El ciudadano debera acercarse con su cedula al lugar de votación
               que le toca (esto lo puede buscar{" "}
               <a href="https://www.registraduria.gov.co/consulte-su-lugar-de-votacion,11710.html">
                 dando clic en este enlace
-              </a>) tambien debera votar en las fechas establecidas por la
-              registraduria, el proceso para hacer esto despues de tener todo lo anterior claro es el siguiente:
+              </a>
+              ) tambien debera votar en las fechas establecidas por la
+              registraduria, el proceso para hacer esto despues de tener todo lo
+              anterior claro es el siguiente:
               <br />
               <br />
-              
               <ul>
                 <li>Saber dónde le toca votar. </li>
                 <li>Saber el horario en el que tiene que votar.</li>
@@ -62,7 +66,6 @@ class Voto extends React.Component {
               </ul>
               <br />
             </p>
-           
           </div>
         </div>
 

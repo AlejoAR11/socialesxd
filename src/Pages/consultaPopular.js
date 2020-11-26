@@ -41,27 +41,51 @@ class ConsultaPopular extends React.Component {
               <div className="imagen">
                 <img src={cons} alt="..." className="ejemplos" />
                 <br />{" "}
-               <a href="www.registraduria.gov.co.
+                <a
+                  href="www.registraduria.gov.co.
                   https://www.registraduria.gov.co/-Tarjeta-de-electoral,2911-.html
-                  "> <p class="citas">
-                  Tarjeta-de-electoral. (2011, 27 abril). <br />
-                  [Ilustración].</p></a> <br />
-                
+                  "
+                >
+                  {" "}
+                  <p class="citas">
+                    Tarjeta-de-electoral. (2011, 27 abril). <br />
+                    [Ilustración].
+                  </p>
+                </a>{" "}
+                <br />
               </div>
               <br />
-              Las consultas populares sobre temas que tengan que ver con toda el país tendra que ser
-              convocadas por el Congreso del país a petición de: 
-               <ul>
-                 <li>1) el Presidente de la República. </li>
-                 <li> 2) el equivalente al 33% de los integrantes de cualquiera de las Cámaras del Congreso del país </li>
-                 <li> 3) los ciudadanos, en un número equivalente, al menos, al 5% de los inscritos en la lista nominal de electores.</li>
-                </ul>
+              Las consultas populares sobre temas que tengan que ver con toda el
+              país tendra que ser convocadas por el Congreso del país a petición
+              de:
+              <ul>
+                <li>1) el Presidente de la República. </li>
+                <li>
+                  {" "}
+                  2) el equivalente al 33% de los integrantes de cualquiera de
+                  las Cámaras del Congreso del país{" "}
+                </li>
+                <li>
+                  {" "}
+                  3) los ciudadanos, en un número equivalente, al menos, al 5%
+                  de los inscritos en la lista nominal de electores.
+                </li>
+              </ul>
               <br />
-
-
               <br />
             </p>
-
+            <p>
+              Una vez se aprueba la consulta popular se prosigue a realizar la
+              votación, el ciudadano tiene que ser mayor de edad y cumplir con
+              los siguientes requisitos o seguir las siguientes recomendaciones:
+              <ul>
+                <li>Saber dónde le toca votar. </li>
+                <li>Saber el horario en el que tiene que votar.</li>
+                <li>Tener la cédula de ciudadanía.</li>
+                <li>Marcar el tarjetón.</li>
+                <li>Depositar el tarjetón.</li>
+              </ul>
+            </p>
           </div>
         </div>
 

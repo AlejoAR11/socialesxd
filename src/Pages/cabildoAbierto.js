@@ -22,13 +22,13 @@ class CabildoAbierto extends React.Component {
                 {" "}
                 La ley 134
               </a>{" "}
-              El cabildo abierto es la reunión pública de los concejos
+             <q>El cabildo abierto es la reunión pública de los concejos
               distritales, municipales o de las juntas administradoras locales,
               en la cual los habitantes pueden participar directamente con el
-              fin de discutir asuntos de interés para la comunidad.
+              fin de discutir asuntos de interés para la comunidad.</q>
               <br />
               <br />
-              Esta es una reunión las cuales se reúnen los administrativos con
+              Esta es una reunión las cuales se juntan los administrativos con
               los habitantes para participar activamente sobre temas de interés.
               <br />
               <br />
