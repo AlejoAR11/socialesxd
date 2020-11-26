@@ -60,7 +60,9 @@ class Inicio extends React.Component {
             <p class="texto">
               Con la siguiente información se le dará a concocer cómo y cuándo
               puedo hacer uso de estos recursos, de una manera resumida y clara
-              para su fácil entendimiento. <br />
+              para su fácil entendimiento.
+              <br/>
+              <strong>Ir a la barra superior donde dice recursos para seguir con el proceso </strong> <br />
               <br />
             </p>
             {/*-Según la página de la Registradora Nacional del Estado civil aparece que 

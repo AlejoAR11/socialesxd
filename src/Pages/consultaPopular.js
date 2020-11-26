@@ -43,22 +43,25 @@ class ConsultaPopular extends React.Component {
                 <br />{" "}
                <a href="www.registraduria.gov.co.
                   https://www.registraduria.gov.co/-Tarjeta-de-electoral,2911-.html
-                  "> <q class="citas">
+                  "> <p class="citas">
                   Tarjeta-de-electoral. (2011, 27 abril). <br />
-                  [Ilustración].</q></a> <br />
+                  [Ilustración].</p></a> <br />
                 
               </div>
               <br />
-              La consulta popular puede ser convocada tanto por el Congreso de
-la República, juntando estos un 33% de cualquier cámara, o por la misma ciudadanía,
-teniendo un apoyo del 5% del censo electoral registrado.
-Se debe ser mayor de edad para participar tanto en el recaudo de firmas de apoyo
-como para votar en la consulta popular en cuestión.
+              Las consultas populares sobre temas que tengan que ver con toda el país tendra que ser
+              convocadas por el Congreso del país a petición de: 
+               <ul>
+                 <li>1) el Presidente de la República. </li>
+                 <li> 2) el equivalente al 33% de los integrantes de cualquiera de las Cámaras del Congreso del país </li>
+                 <li> 3) los ciudadanos, en un número equivalente, al menos, al 5% de los inscritos en la lista nominal de electores.</li>
+                </ul>
               <br />
+
+
               <br />
             </p>
 
-            <p class="texto"></p>
           </div>
         </div>
 

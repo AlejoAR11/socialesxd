@@ -37,7 +37,7 @@ render(){
                   <a class="dropdown-item" href="/referendo">Referendo</a>
                   <a class="dropdown-item" href="/revocatoriaMandato">Revocatoria de mandato</a>
                   <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="#footer">Creadores xd</a>
+                  <a class="dropdown-item" href="#footer">Creadores</a>
                 </div>
               </li>
             </ul>

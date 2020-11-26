@@ -11,7 +11,7 @@ class Footer extends React.Component{
 
 <p class="footer" id="footer">
 
-    Alejandro Rodríguez Molina • Juan Pablo Roldán Patiño •2020• Institución Educativa Diego Echavarria Misas • Medellín
+    Alejandro Rodríguez Molina • Juan Pablo Roldán Patiño • 2020 • Institución Educativa Diego Echavarria Misas • Medellín
 </p>
 
 </div>
