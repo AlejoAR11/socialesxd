@@ -25,36 +25,32 @@ class RevocatoriaMandato extends React.Component {
               “La revocatoria del mandato es un derecho político, por medio del
               cual los ciudadanos pueden dar por terminado el mandato que le han
               conferido a un gobernador o a un alcalde.”
+            
               <br />
               <br />
-              Este es un derecho el cual los ciudadanos podemos terminar el
-              mandato que se le entregó a un mandatario (presidente, alcalde,
-              etc) ya sea porque está cometiendo fraude, no cumplió sus
-              propuestas, está haciendo algún acto delictivo o no estemos de
-              acuerdo con las funciones que está realizando.
-              <br />
-              <br />
-              Para solicitar la revocatoria del mandato de un mandatario, un
-              número de ciudadanos, mayor al 40% del total de los votos válidos
+              Para solicitar⠀la revocatoria del mandato de un mandatario, un
+              número⠀de ciudadanos, mayor al 40% del total de los votos válidos
               emitidos en la elección del respectivo mandatario, debe solicitar
-              con su firma ante la Registraduría del Estado Civil
+              con⠀su firma ante la Registraduría del Estado Civil
               correspondiente, la convocatoria a la votación para la revocatoria
-              del mandato de un gobernador o un alcalde.
+              del⠀mandato de un gobernador o un alcalde.
+              Los⠀ciudadanos colombianos mayores de 18 años, que sean habitantes del municipio o departamento en el que se⠀realizará la revocatoria de mandato que estén inscritos en el censo electoral del municipio o⠀departamento.
               <br />
               <br />
-              Una vez se entienda que esta solo es válida para
-gobernadores o alcaldes y NO para el presidente, la ciudadanía puede hacer uso de
-este mecanismo para dar por terminado el mandato que se le dió tiempo atrás. Para
-hacer una petición válida se debe contar con mínimo el una cantidad de firmas
-equivalente al 40% de votos válidos emitidos para el funcionario en cuestión. También
-se debe contar con que debe tener mínimo un año en el poder. Una vez validadas las
-firmas se tendrán dos meses para convocar a las votaciones en las cuales se decidirá
-si se derrocará al funcionario o no.
+              Una vez se⠀entienda que esta solo es válida para
+              gobernadores⠀o alcaldes y NO para el presidente, la ciudadanía puede hacer uso de
+              este mecanismo⠀para dar por terminado el mandato que se le dió tiempo atrás. Para
+              hacer una petición⠀válida se debe contar con mínimo el una cantidad de firmas
+              equivalente al 40%⠀de votos válidos emitidos para el funcionario en cuestión. También
+              se debe contar con⠀que debe tener mínimo un año en el poder. Una vez validadas las
+              firmas se tendrán⠀dos meses para convocar a las votaciones en las cuales se decidirá
+              si se derrocará al⠀funcionario o no.
               <br />
               <br />
+              La solicitud de⠀revocatoria⠀de mandato procederá siempre y cuando haya pasado minimo un año, contado a partir desde que⠀toma ese⠀lugar como mandatario,⠀Los ciudadanos interesados en solicitar que su alcalde o gobernador⠀sea⠀retirado de su cargo deben acudir a la Registraduría Nacional del Estado Civil, 
             </p>
 
-            <p class="texto"></p>
+         
           </div>
         </div>
 

@@ -3,7 +3,7 @@ import { Link, NavLink } from "react-router-dom";
 import Nav from "../components/nav.js";
 import style from "../Style/inicio.css";
 import Footer from "../components/footer.js";
-import Referendo from "../Images/referendo.jpg"
+import referendo from "../Images/referendo.jpg"
 
 class Referendo extends React.Component {
   render() {
@@ -74,7 +74,7 @@ class Referendo extends React.Component {
             <br/>
 
              <center>       
-                <img src={Referendo} alt="..." id="referendo" />{" "}
+                <img src={referendo} alt="..." id="referendo" />{" "}
             </center>
             
             </p>
